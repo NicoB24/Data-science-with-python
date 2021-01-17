@@ -1,6 +1,6 @@
 # Data Science With Python
 
-This repository includes all the practice and projects that i did to put in practice the knowledge of the course 'Ciencia de Datos 360 con Python' by 'Escuela De Datos Vivos'
+This repository includes all the practice and projects that i did to put in practice the knowledge of the course 'Ciencia de Datos 360 con Python' by 'Escuela De Datos Vivos'.
 
 ## Installation 📋
 
