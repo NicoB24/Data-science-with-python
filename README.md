@@ -11,3 +11,10 @@ pip3 install -r requirements.txt
 ```
 
 ## Content 📖
+
+* Exploratory data analysis
+* Data preparation
+* Predictive models (classification and regression)
+* Clustering
+* Dimensionality reduction
+* Models optimization, selection and validation
