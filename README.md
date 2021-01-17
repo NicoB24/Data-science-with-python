@@ -18,3 +18,11 @@ pip3 install -r requirements.txt
 * Clustering
 * Dimensionality reduction
 * Models optimization, selection and validation
+
+## Libraries 📚
+
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Scikit-learn
