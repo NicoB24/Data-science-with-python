@@ -4,7 +4,7 @@ This repository includes all the practice and projects that i did to put in prac
 
 ## Installation 📋
 
-_To run all the jupyter notebooks, install all the libraries running this:_
+_To run all the jupyter notebooks, install the libraries running this:_
 
 ```
 pip3 install -r requirements.txt
